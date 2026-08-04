@@ -2,13 +2,13 @@
 
 **Yürürlük Tarihi:** 04 Ağustos 2026
 
-PM Studio tarafından geliştirilen Maaş Hesapla uygulaması, kullanıcı gizliliğine önem verir.
+PM Studio tarafından geliştirilen **Maaş Hesapla** uygulaması, kullanıcı gizliliğine önem verir. Bu Gizlilik Politikası, uygulamanın kullanıcı verilerini nasıl işlediğini açıklamaktadır.
 
 ## Toplanan Veriler
 
-Maaş Hesapla uygulaması hiçbir kişisel veriyi toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.
+Maaş Hesapla uygulaması **hiçbir kişisel veriyi toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz.**
 
-Tüm maaş hesaplamaları yalnızca cihazınız üzerinde gerçekleştirilir.
+Tüm maaş hesaplamaları yalnızca kullanıcının kendi cihazı üzerinde gerçekleştirilir.
 
 Aşağıdaki bilgiler toplanmaz:
 
@@ -20,31 +20,32 @@ Aşağıdaki bilgiler toplanmaz:
 - Fotoğraflar
 - Finansal bilgiler
 - Cihaz kimliği
+- IP adresi
 
 ## Reklamlar
 
-Uygulama Google AdMob reklamlarını gösterebilir.
+Uygulama, Google AdMob reklamlarını gösterebilir.
 
-Google AdMob, kendi gizlilik politikası kapsamında sınırlı teknik bilgiler toplayabilir.
+Google AdMob, reklam sunumu amacıyla kendi gizlilik politikası kapsamında sınırlı teknik bilgiler işleyebilir.
 
 Google Gizlilik Politikası:
+
 https://policies.google.com/privacy
 
 ## Veri Güvenliği
 
-PM Studio tarafından hiçbir kişisel veri saklanmaz.
+PM Studio tarafından hiçbir kişisel veri toplanmadığı veya saklanmadığı için kullanıcı verileri sunucularımızda tutulmaz.
 
 ## Çocukların Gizliliği
 
-Uygulama genel kullanıma yöneliktir ve çocuklardan bilerek kişisel veri toplamaz.
+Maaş Hesapla genel kullanıma yöneliktir ve çocuklardan bilerek kişisel veri toplamaz.
 
 ## Gizlilik Politikasındaki Değişiklikler
 
-Bu politika gerektiğinde güncellenebilir. Güncel sürüm her zaman bu sayfada yayınlanacaktır.
+Bu Gizlilik Politikası gerektiğinde güncellenebilir. Yapılan değişiklikler bu sayfada yayınlanacaktır.
 
 ## İletişim
 
-PM Studio
+**Geliştirici:** PM Studio
 
-E-posta:
-pmstudioapps@gmail.com
+**E-posta:** pmstudioapps@gmail.com
